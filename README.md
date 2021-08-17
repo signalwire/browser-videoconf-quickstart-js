@@ -1,2 +1,1 @@
-# basicdemo
-Created with CodeSandbox
+# SignalWire Video SDK Getting Started Demo
